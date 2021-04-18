@@ -5,4 +5,4 @@ Mijn buurman doet aan geo-caching, en kwam naar mij met dit ladder probleem omda
 
 ## De t-formules plus de sinus en cosinus in functie van de tangens
 
-De t-formules worden meestal afgeleid met behulp van een aantal goniometrische formules. Idem voor de formules van de sinus en cosinus in functie van de tangens. Dit kan eenvoudiger, en daarom maakte ik de PDF die bij deze video: xxx hoort. 
+De t-formules worden meestal afgeleid met behulp van een aantal goniometrische formules. Idem voor de formules van de sinus en cosinus in functie van de tangens. Dit kan eenvoudiger, en daarom maakte ik de PDF die bij deze video: https://youtu.be/mebAEiGgKA0 hoort. 
