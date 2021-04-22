@@ -9,3 +9,4 @@ De formule voor sin(2x) gebruik ik in de video van de t-formules. Meestal wordt 
 ## Goniometrische formules: trucs en afleidingen
 Ik heb altijd een gloeiende hekel gehad aan dingen vanbuiten leren. Dus als ik kon bedacht ik altijd trucs om dingen te onthouden, en beter nog, hoe ik snel dingen kon afleiden. Die afleidingen waren niet altijd even koosjer, wiskundig gezien, maar waren gebaseerd op wat ik makkelijk kon onthouden. 
 Dit zijn een aantal "afleidingen" van goniometrische formules, op een manier die je toelaat om de meest courante snel te reconstrueren, met een minimum aan van buiten leren. Het lijkt misschien veel en moeilijk de eerste keer, maar als je 't een paar keer doet vergeet je nooit meer hoe 't moet. Bovendien heb je vaak wel een idee van hoe de formule er grosso modo moet uitzien, dus dat helpt ook. En op een examen heb je ze meestal niet allemaal nodig, dus je bent er doorgaans wel snel vanaf.
+De video vind je hier: https://youtu.be/CQPpCuewG84
